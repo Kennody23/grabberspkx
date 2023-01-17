@@ -213,7 +213,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : ${__version__}
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (Ferramenta Criada por - Spkx rlk7. (!  Spkx rlk7 - 3498 )tahmid.rayat)${WHITE}
 	EOF
 }
 
